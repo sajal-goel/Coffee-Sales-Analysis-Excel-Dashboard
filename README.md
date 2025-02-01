@@ -1,6 +1,6 @@
-# coffee-sales-excel-dashboard
+# Coffee Sales Analysis | Excel Dashboard
 
-Description--> An interactive excel dashboard.
+An interactive Excel Dashboard that provides valuable insights on top customers, sales by country, and total sales over time analysis.
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/e6e8b8be-9949-4768-a939-e77683282cfa" />
 
